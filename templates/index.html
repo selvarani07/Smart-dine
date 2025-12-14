@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - SmartDine AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/animations.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="background-glob"></div>
+    <div class="background-glob glob-2"></div>
+
+    <main class="container">
+        <header class="hero dashboard">
+            <h1 class="logo">SmartDine <span class="ai-badge">AI</span></h1>
+            <a href="{{ url_for('logout') }}" class="glass-btn small-btn"
+                style="position: absolute; top: 1.5rem; right: 2rem; font-size: 0.9rem;">Logout</a>
+            <p class="tagline">What's your mood today?</p>
+        </header>
+
+        <section class="mood-section">
+            <div id="moodGrid" class="mood-grid">
+                <!-- Mood Chips injected here -->
+            </div>
+        </section>
+
+        <section class="search-section" style="margin-bottom: 2rem; text-align: center;">
+            <button id="surpriseBtn" class="cta-btn"
+                style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%);">🎲 Surprise Me!</button>
+        </section>
+
+        <section id="resultsArea" class="results-grid">
+            <!-- Results injected here -->
+        </section>
+    </main>
+
+    <!-- Simple Modal -->
+    <div id="modalOverlay" class="modal-overlay hidden">
+        <div class="modal-content glass-panel">
+            <button id="closeModal" class="close-btn">&times;</button>
+            <div id="modalBody">
+                <!-- Details injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+
+</html>

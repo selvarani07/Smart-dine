@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartDine AI - Taste Your Mood</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/animations.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="landing-body">
+    <div class="background-glob"></div>
+    <div class="background-glob glob-2"></div>
+
+    <nav class="landing-nav">
+        <h1 class="logo">SmartDine <span class="ai-badge">AI</span></h1>
+        <a href="/login" class="glass-btn small-btn">Login</a>
+    </nav>
+
+    <main class="landing-container">
+        <section class="landing-hero animate-enter">
+            <h1 class="hero-title">Food that matches your <span class="highlight-text">Vibe</span>.</h1>
+            <p class="hero-subtitle">From "Stressed" to "Celebration", we currate the perfect menu for your mood.</p>
+            <a href="/login" class="cta-btn">Get Started</a>
+        </section>
+
+        <section class="food-gallery">
+            <!-- decorative images/cards -->
+            <div class="gallery-card stagger-1">
+                <span class="emoji">🍕</span>
+                <span class="label">Comfort</span>
+            </div>
+            <div class="gallery-card stagger-2">
+                <span class="emoji">🥗</span>
+                <span class="label">Healthy</span>
+            </div>
+            <div class="gallery-card stagger-3">
+                <span class="emoji">🌶️</span>
+                <span class="label">Spicy</span>
+            </div>
+            <div class="gallery-card stagger-1">
+                <span class="emoji">🍦</span>
+                <span class="label">Sweet</span>
+            </div>
+        </section>
+    </main>
+</body>
+
+</html>

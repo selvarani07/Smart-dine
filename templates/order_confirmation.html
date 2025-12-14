@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Confirmed - SmartDine AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/animations.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .confirmation-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .success-checkmark {
+            font-size: 5rem;
+            margin-bottom: 1rem;
+            animation: popIn 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        @keyframes popIn {
+            0% {
+                transform: scale(0);
+                opacity: 0;
+            }
+
+            100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="background-glob"></div>
+    <div class="background-glob glob-2"></div>
+
+    <main class="confirmation-container animate-enter">
+        <div class="glass-panel" style="padding: 3rem; max-width: 500px; width: 100%;">
+            <div class="success-checkmark">🎉</div>
+            <h1 style="color: var(--text-light); margin-bottom: 0.5rem;">Order Confirmed!</h1>
+            <p style="color: var(--text-dim); font-size: 1.1rem; margin-bottom: 2rem;">
+                Excellent choice! <br>
+                You have ordered <strong style="color: var(--accent);">{{ food.name }}</strong>.
+            </p>
+            <p style="color: var(--text-dim); margin-bottom: 2rem; font-size: 0.9rem;">
+                Your meal is being prepared with <span style="color: #ff6b6b;">❤</span>
+            </p>
+            <a href="{{ url_for('discover') }}" class="cta-btn full-width"
+                style="text-decoration: none; display: inline-block;">Back to Dashboard</a>
+        </div>
+    </main>
+</body>
+
+</html>

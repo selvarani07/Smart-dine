@@ -1,0 +1,72 @@
+{
+    "happy": [
+        "sweet",
+        "refreshing",
+        "colorful",
+        "crunchy",
+        "fun"
+    ],
+    "sad": [
+        "warm",
+        "comfort",
+        "creamy",
+        "soft",
+        "soothing"
+    ],
+    "stressed": [
+        "light",
+        "low-oil",
+        "calm",
+        "simple",
+        "mild"
+    ],
+    "energetic": [
+        "high-protein",
+        "spicy",
+        "zesty",
+        "power",
+        "nutty"
+    ],
+    "lazy": [
+        "quick",
+        "easy",
+        "snack",
+        "fried",
+        "crispy"
+    ],
+    "romantic": [
+        "rich",
+        "aromatic",
+        "chocolatey",
+        "fruity",
+        "smooth"
+    ],
+    "bored": [
+        "unique",
+        "tangy",
+        "spicy",
+        "unusual",
+        "fun"
+    ],
+    "cold": [
+        "hot",
+        "soupy",
+        "warm",
+        "herbal",
+        "creamy"
+    ],
+    "hot": [
+        "cold",
+        "icy",
+        "refreshing",
+        "juicy",
+        "sweet"
+    ],
+    "celebration": [
+        "festive",
+        "rich",
+        "sweet",
+        "special",
+        "premium"
+    ]
+}

@@ -1,0 +1,754 @@
+[
+    {
+        "name": "Veg Biryani",
+        "keywords": [
+            "spicy",
+            "aromatic",
+            "warm"
+        ]
+    },
+    {
+        "name": "Chicken Biryani",
+        "keywords": [
+            "spicy",
+            "aromatic",
+            "rich"
+        ]
+    },
+    {
+        "name": "Paneer Butter Masala",
+        "keywords": [
+            "creamy",
+            "rich",
+            "buttery"
+        ]
+    },
+    {
+        "name": "Masala Dosa",
+        "keywords": [
+            "crispy",
+            "spicy",
+            "fried"
+        ]
+    },
+    {
+        "name": "Idli Sambar",
+        "keywords": [
+            "light",
+            "soft",
+            "warm"
+        ]
+    },
+    {
+        "name": "Poori Masala",
+        "keywords": [
+            "fried",
+            "warm",
+            "comfort"
+        ]
+    },
+    {
+        "name": "Aloo Paratha",
+        "keywords": [
+            "comfort",
+            "warm",
+            "creamy"
+        ]
+    },
+    {
+        "name": "Curd Rice",
+        "keywords": [
+            "cooling",
+            "refreshing",
+            "light"
+        ]
+    },
+    {
+        "name": "Fried Rice",
+        "keywords": [
+            "crispy",
+            "spicy",
+            "quick"
+        ]
+    },
+    {
+        "name": "Veg Noodles",
+        "keywords": [
+            "quick",
+            "tangy",
+            "fun"
+        ]
+    },
+    {
+        "name": "Spring Rolls",
+        "keywords": [
+            "crispy",
+            "fried",
+            "fun"
+        ]
+    },
+    {
+        "name": "Hakka Noodles",
+        "keywords": [
+            "tangy",
+            "zesty",
+            "quick"
+        ]
+    },
+    {
+        "name": "Paneer Tikka",
+        "keywords": [
+            "spicy",
+            "aromatic",
+            "crispy"
+        ]
+    },
+    {
+        "name": "Chicken Tikka",
+        "keywords": [
+            "spicy",
+            "high-protein",
+            "aromatic"
+        ]
+    },
+    {
+        "name": "Momos",
+        "keywords": [
+            "soft",
+            "steamed",
+            "mild"
+        ]
+    },
+    {
+        "name": "Tomato Soup",
+        "keywords": [
+            "soupy",
+            "warm",
+            "soothing"
+        ]
+    },
+    {
+        "name": "Sweet Corn Soup",
+        "keywords": [
+            "soupy",
+            "light",
+            "comfort"
+        ]
+    },
+    {
+        "name": "Hot & Sour Soup",
+        "keywords": [
+            "hot",
+            "tangy",
+            "spicy"
+        ]
+    },
+    {
+        "name": "Ice Cream",
+        "keywords": [
+            "sweet",
+            "cold",
+            "creamy"
+        ]
+    },
+    {
+        "name": "Falooda",
+        "keywords": [
+            "sweet",
+            "fruity",
+            "colorful"
+        ]
+    },
+    {
+        "name": "Gulab Jamun",
+        "keywords": [
+            "sweet",
+            "warm",
+            "festive"
+        ]
+    },
+    {
+        "name": "Rasgulla",
+        "keywords": [
+            "sweet",
+            "spongy",
+            "cooling"
+        ]
+    },
+    {
+        "name": "Kulfi",
+        "keywords": [
+            "cold",
+            "creamy",
+            "nutty"
+        ]
+    },
+    {
+        "name": "Brownie",
+        "keywords": [
+            "chocolatey",
+            "rich",
+            "sweet"
+        ]
+    },
+    {
+        "name": "Chocolate Cake",
+        "keywords": [
+            "sweet",
+            "chocolatey",
+            "smooth"
+        ]
+    },
+    {
+        "name": "Fruit Salad",
+        "keywords": [
+            "fruity",
+            "refreshing",
+            "juicy"
+        ]
+    },
+    {
+        "name": "Smoothie",
+        "keywords": [
+            "fruity",
+            "cooling",
+            "sweet"
+        ]
+    },
+    {
+        "name": "Mango Shake",
+        "keywords": [
+            "sweet",
+            "fruity",
+            "creamy"
+        ]
+    },
+    {
+        "name": "French Fries",
+        "keywords": [
+            "crispy",
+            "fried",
+            "snack"
+        ]
+    },
+    {
+        "name": "Nachos",
+        "keywords": [
+            "crispy",
+            "cheesy",
+            "fun"
+        ]
+    },
+    {
+        "name": "Popcorn",
+        "keywords": [
+            "snack",
+            "light",
+            "fun"
+        ]
+    },
+    {
+        "name": "Pizza Margherita",
+        "keywords": [
+            "cheesy",
+            "rich",
+            "premium"
+        ]
+    },
+    {
+        "name": "Cheese Burger",
+        "keywords": [
+            "cheesy",
+            "crispy",
+            "heavy"
+        ]
+    },
+    {
+        "name": "Garlic Bread",
+        "keywords": [
+            "crispy",
+            "buttery",
+            "aromatic"
+        ]
+    },
+    {
+        "name": "Samosa",
+        "keywords": [
+            "fried",
+            "crispy",
+            "spicy"
+        ]
+    },
+    {
+        "name": "Vada Pav",
+        "keywords": [
+            "spicy",
+            "fried",
+            "comfort"
+        ]
+    },
+    {
+        "name": "Kachori",
+        "keywords": [
+            "crispy",
+            "fried",
+            "masala"
+        ]
+    },
+    {
+        "name": "Bhel Puri",
+        "keywords": [
+            "tangy",
+            "fun",
+            "crunchy"
+        ]
+    },
+    {
+        "name": "Pani Puri",
+        "keywords": [
+            "tangy",
+            "spicy",
+            "fun"
+        ]
+    },
+    {
+        "name": "Dahi Puri",
+        "keywords": [
+            "creamy",
+            "sweet",
+            "tangy"
+        ]
+    },
+    {
+        "name": "Pav Bhaji",
+        "keywords": [
+            "spicy",
+            "buttery",
+            "comfort"
+        ]
+    },
+    {
+        "name": "Fish Fry",
+        "keywords": [
+            "crispy",
+            "spicy",
+            "high-protein"
+        ]
+    },
+    {
+        "name": "Grilled Chicken",
+        "keywords": [
+            "high-protein",
+            "zesty",
+            "light"
+        ]
+    },
+    {
+        "name": "Egg Omelette",
+        "keywords": [
+            "quick",
+            "simple",
+            "high-protein"
+        ]
+    },
+    {
+        "name": "Veg Sandwich",
+        "keywords": [
+            "quick",
+            "light",
+            "fresh"
+        ]
+    },
+    {
+        "name": "Paneer Sandwich",
+        "keywords": [
+            "creamy",
+            "quick",
+            "rich"
+        ]
+    },
+    {
+        "name": "Chicken Sandwich",
+        "keywords": [
+            "high-protein",
+            "simple",
+            "quick"
+        ]
+    },
+    {
+        "name": "Pasta Alfredo",
+        "keywords": [
+            "creamy",
+            "rich",
+            "smooth"
+        ]
+    },
+    {
+        "name": "Pasta Arrabiata",
+        "keywords": [
+            "spicy",
+            "tangy",
+            "zesty"
+        ]
+    },
+    {
+        "name": "Mac & Cheese",
+        "keywords": [
+            "creamy",
+            "cheesy",
+            "comfort"
+        ]
+    },
+    {
+        "name": "Chole Bhature",
+        "keywords": [
+            "spicy",
+            "fried",
+            "festive"
+        ]
+    },
+    {
+        "name": "Rajma Chawal",
+        "keywords": [
+            "comfort",
+            "warm",
+            "simple"
+        ]
+    },
+    {
+        "name": "Dal Tadka",
+        "keywords": [
+            "warm",
+            "mild",
+            "herbal"
+        ]
+    },
+    {
+        "name": "Jeera Rice",
+        "keywords": [
+            "simple",
+            "aromatic",
+            "light"
+        ]
+    },
+    {
+        "name": "Chapati & Sabji",
+        "keywords": [
+            "light",
+            "simple",
+            "healthy"
+        ]
+    },
+    {
+        "name": "Grilled Paneer",
+        "keywords": [
+            "high-protein",
+            "aromatic",
+            "light"
+        ]
+    },
+    {
+        "name": "Fried Chicken",
+        "keywords": [
+            "crispy",
+            "fried",
+            "heavy"
+        ]
+    },
+    {
+        "name": "Veg Cutlet",
+        "keywords": [
+            "crispy",
+            "snack",
+            "mild"
+        ]
+    },
+    {
+        "name": "Paneer Roll",
+        "keywords": [
+            "spicy",
+            "quick",
+            "snack"
+        ]
+    },
+    {
+        "name": "Chicken Roll",
+        "keywords": [
+            "zesty",
+            "snack",
+            "high-protein"
+        ]
+    },
+    {
+        "name": "Mushroom Soup",
+        "keywords": [
+            "soupy",
+            "creamy",
+            "warm"
+        ]
+    },
+    {
+        "name": "Chicken Soup",
+        "keywords": [
+            "soupy",
+            "comfort",
+            "warm"
+        ]
+    },
+    {
+        "name": "Lemon Juice",
+        "keywords": [
+            "refreshing",
+            "tangy",
+            "cooling"
+        ]
+    },
+    {
+        "name": "Iced Tea",
+        "keywords": [
+            "refreshing",
+            "cold",
+            "light"
+        ]
+    },
+    {
+        "name": "Cold Coffee",
+        "keywords": [
+            "creamy",
+            "cold",
+            "sweet"
+        ]
+    },
+    {
+        "name": "Veg Salad",
+        "keywords": [
+            "healthy",
+            "light",
+            "fresh"
+        ]
+    },
+    {
+        "name": "Caesar Salad",
+        "keywords": [
+            "creamy",
+            "fresh",
+            "rich"
+        ]
+    },
+    {
+        "name": "Greek Salad",
+        "keywords": [
+            "fresh",
+            "juicy",
+            "light"
+        ]
+    },
+    {
+        "name": "Waffles",
+        "keywords": [
+            "sweet",
+            "crispy",
+            "chocolatey"
+        ]
+    },
+    {
+        "name": "Pancakes",
+        "keywords": [
+            "sweet",
+            "soft",
+            "creamy"
+        ]
+    },
+    {
+        "name": "Donut",
+        "keywords": [
+            "sweet",
+            "soft",
+            "fun"
+        ]
+    },
+    {
+        "name": "Idiyappam",
+        "keywords": [
+            "light",
+            "soft",
+            "warm"
+        ]
+    },
+    {
+        "name": "Kothu Parotta",
+        "keywords": [
+            "spicy",
+            "fried",
+            "masala"
+        ]
+    },
+    {
+        "name": "Chicken 65",
+        "keywords": [
+            "spicy",
+            "crispy",
+            "fried"
+        ]
+    },
+    {
+        "name": "Mutton Curry",
+        "keywords": [
+            "rich",
+            "spicy",
+            "festive"
+        ]
+    },
+    {
+        "name": "Fish Curry",
+        "keywords": [
+            "spicy",
+            "soupy",
+            "aromatic"
+        ]
+    },
+    {
+        "name": "Club Sandwich",
+        "keywords": [
+            "crispy",
+            "rich",
+            "quick"
+        ]
+    },
+    {
+        "name": "Veg Burger",
+        "keywords": [
+            "crispy",
+            "fun",
+            "snack"
+        ]
+    },
+    {
+        "name": "Cheese Sandwich",
+        "keywords": [
+            "cheesy",
+            "quick",
+            "mild"
+        ]
+    },
+    {
+        "name": "Milkshake",
+        "keywords": [
+            "creamy",
+            "sweet",
+            "fruity"
+        ]
+    },
+    {
+        "name": "Strawberry Shake",
+        "keywords": [
+            "sweet",
+            "fruity",
+            "pink"
+        ]
+    },
+    {
+        "name": "Blueberry Smoothie",
+        "keywords": [
+            "fruity",
+            "healthy",
+            "refreshing"
+        ]
+    },
+    {
+        "name": "Choco Lava Cake",
+        "keywords": [
+            "chocolatey",
+            "rich",
+            "warm"
+        ]
+    },
+    {
+        "name": "Jalebi",
+        "keywords": [
+            "sweet",
+            "crispy",
+            "festive"
+        ]
+    },
+    {
+        "name": "Kesari",
+        "keywords": [
+            "sweet",
+            "warm",
+            "smooth"
+        ]
+    },
+    {
+        "name": "Payasam",
+        "keywords": [
+            "sweet",
+            "creamy",
+            "festive"
+        ]
+    },
+    {
+        "name": "Banana Chips",
+        "keywords": [
+            "crispy",
+            "snack",
+            "fried"
+        ]
+    },
+    {
+        "name": "Murukku",
+        "keywords": [
+            "crispy",
+            "snack",
+            "masala"
+        ]
+    },
+    {
+        "name": "Chicken Soup Noodles",
+        "keywords": [
+            "warm",
+            "soupy",
+            "comfort"
+        ]
+    },
+    {
+        "name": "Veg Puff",
+        "keywords": [
+            "crispy",
+            "baked",
+            "snack"
+        ]
+    },
+    {
+        "name": "Egg Puff",
+        "keywords": [
+            "crispy",
+            "snack",
+            "fried"
+        ]
+    },
+    {
+        "name": "Paneer Pizza",
+        "keywords": [
+            "cheesy",
+            "rich",
+            "spicy"
+        ]
+    },
+    {
+        "name": "Oreo Shake",
+        "keywords": [
+            "sweet",
+            "creamy",
+            "chocolatey"
+        ]
+    },
+    {
+        "name": "Tender Coconut Water",
+        "keywords": [
+            "refreshing",
+            "cooling",
+            "light"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "The Spicy Fork",
+    "cuisine": "Indian",
+    "price_range": "$$",
+    "rating": 4.5,
+    "description": "Authentic North Indian curry house with a modern twist.",
+    "location": "Downtown",
+    "tags": ["spicy", "curry", "vegetarian-friendly"]
+  },
+  {
+    "id": 2,
+    "name": "Sushi Zen",
+    "cuisine": "Japanese",
+    "price_range": "$$$",
+    "rating": 4.8,
+    "description": "Premium sushi and sashimi in a minimalist setting.",
+    "location": "Westside",
+    "tags": ["sushi", "fresh", "date-night"]
+  },
+  {
+    "id": 3,
+    "name": "Luigi's Trattoria",
+    "cuisine": "Italian",
+    "price_range": "$$",
+    "rating": 4.3,
+    "description": "Family-owned Italian spot famous for handmade pasta.",
+    "location": "North End",
+    "tags": ["pasta", "pizza", "family"]
+  },
+  {
+    "id": 4,
+    "name": "Burger Barn",
+    "cuisine": "American",
+    "price_range": "$",
+    "rating": 4.2,
+    "description": "Classic smash burgers and milkshakes.",
+    "location": "Uptown",
+    "tags": ["burger", "fast-food", "late-night"]
+  },
+  {
+    "id": 5,
+    "name": "Green Leaf",
+    "cuisine": "Vegan",
+    "price_range": "$$",
+    "rating": 4.6,
+    "description": "Creative plant-based dishes that satisfy everyone.",
+    "location": "Downtown",
+    "tags": ["vegan", "healthy", "salad"]
+  }
+]
